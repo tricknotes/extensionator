@@ -5,7 +5,7 @@ Package Chrome extensions. Zip files or CRXs. Some convenience options. Use the 
 [![Gem Version][gem-image]][gem-url]
 [![MIT License][license-image]][license]
 [![Gem Downloads][gem-dl-image]][gem-url]
-[![Build Status][travis-image]][travis-url]
+[![Build Status][github-actions]][github-actions]
 
 ## You probably don't need this anymore
 
@@ -111,16 +111,10 @@ Copyright 2015 Zensight. Distributed under the MIT License. See the [LICENSE][] 
 [license-image]: http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
 [license]: LICENSE.md
 
-[code-climate-image]: https://img.shields.io/codeclimate/github/Zensight/extensionator.svg?style=flat-square
-[code-climate-url]: https://codeclimate.com/github/Zensight/extensionator
-
 [gem-image]: https://img.shields.io/gem/v/extensionator.svg?style=flat-square
 [gem-dl-image]: https://img.shields.io/gem/dt/extensionator.svg?style=flat-square
 [gem-url]: https://rubygems.org/gems/extensionator
 
-[travis-url]: http://travis-ci.org/Zensight/extensionator
-[travis-image]: http://img.shields.io/travis/Zensight/extensionator.svg?style=flat-square
-
-[crxmake-url]: https://github.com/Constellation/crxmake
+[github-actions]: https://github.com/tricknotes/extensionator/workflows/Build/badge.svg
 
 [phasers-image]: https://img.shields.io/badge/phasers-stun-brightgreen.svg?style=flat-square
